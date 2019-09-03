@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "hello world"
+$out="hello world"
+echo $out
